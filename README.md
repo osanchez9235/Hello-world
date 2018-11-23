@@ -56,12 +56,13 @@ execute mvn clean install command after executing command mvn camel: run
 1.0.0-SNAPSHOT
 ```
 ## Authors
+[Nyva Consulting SA. de CV.](http://www.nyva.mx/)
 ```
 Name: Alfredo Hernandez
 Email: ahernandez@nyva.mx
-Name: Obed Sanchez@nyva.mx
+Name: Obed Sanchez
 Email: osanchez@nyva.mx
 ```
-* [Nyva Consulting SA. de CV.](http://www.nyva.mx/)
+
 
 
