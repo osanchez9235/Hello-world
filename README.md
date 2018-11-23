@@ -62,6 +62,6 @@ Email: ahernandez@nyva.mx
 Name: Obed Sanchez@nyva.mx
 Email: osanchez@nyva.mx
 ```
-*[Nyva Consulting SA. de CV.] (http://www.nyva.mx/)
+* [Nyva Consulting SA. de CV.] (http://www.nyva.mx/)
 
 
